@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660666494330",
+    "project_id": "trabajomoviles-16cf6",
+    "storage_bucket": "trabajomoviles-16cf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660666494330:android:a74c8261755a1cde863ac3",
+        "android_client_info": {
+          "package_name": "com.example.trabajomoviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660666494330-ef5oe6cq2iem3u1e8ecgkr1osp9k72m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trabajomoviles",
+            "certificate_hash": "b2baff84ce0616077bcfa7926b7af74c6c068151"
+          }
+        },
+        {
+          "client_id": "660666494330-sjt41m9rs204ba24hdbgiqf9qlkg3idu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDYueOb3feqrlkf90uI5s2mNOb6hsLw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660666494330-sjt41m9rs204ba24hdbgiqf9qlkg3idu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
